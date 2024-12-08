@@ -35,6 +35,9 @@ Figure -02 HALF Subtractor
 
 **Truthtable**
 
+![image](https://github.com/user-attachments/assets/afe4a3fc-e984-4d5e-a8c8-62dc7e8d38ca)
+
+
 **Procedure**
 
 1.	Type the program in Quartus software.
@@ -67,7 +70,7 @@ assign carry = a & b;
 endmodule
 ```
 
-Full_adder
+Half_subtractor
 
 ```
 module halfsub_top(a,b,D,Bo);
